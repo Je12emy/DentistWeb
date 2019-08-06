@@ -21,7 +21,7 @@ body{
 /* Contenido prinpipal */
 #FotoHome{
 	/* Define una imagen de fonto */ 
-	background-image: url(/recursos/silla.jpg);
+	background-image: url(../recursos/silla.jpg);
 	/* Evita que se repita la imagen de fondo */
 	background-repeat: no-repeat;
 
@@ -51,7 +51,7 @@ h1{
 }
 #quienes-somosback{
 	background-color: #bebebe;
-	background-image: url(/recursos/doctor.jpg);
+	background-image: url(../recursos/doctor.jpg);
 	/* Posicionamiento de la imagen */
 	background-repeat: no-repeat;
 	background-position: center;
@@ -106,7 +106,7 @@ h1{
 	margin-bottom: 0;
 	height: 500px;
 	width: 100%;
-	background-image: url(/recursos/sonrisas.jpg);
+	background-image: url(../recursos/sonrisas.jpg);
 
 	background-repeat: no-repeat;
 	background-position: center;
@@ -161,7 +161,7 @@ h1{
 	margin-bottom: 0;
 	height: 500px;
 	width: 100%;
-	background-image: url(/recursos/modelos.jpg);
+	background-image: url(../recursos/modelos.jpg);
 
 	background-repeat: no-repeat;
 	background-position: center;
