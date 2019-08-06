@@ -1,0 +1,160 @@
+body{
+	overflow-x: none;
+	padding: 0;
+	margin:0;
+	font-family: sans-serif;
+}
+/* Pagina principal */
+/* Header de la pagina web */
+#header{
+	background-color: #2b2c2b;
+	/* Los porcentajes son otra forma de presentar una medida */
+	height: 100%;
+	width: 100%;
+}
+#header img{
+	margin-left: 8px;
+	width: 100%;
+	height: auto;
+}
+
+/* Contenido prinpipal */
+#FotoHome{
+	/* Define una imagen de fonto */ 
+	background-image: url(/recursos/silla.jpg);
+	/* Evita que se repita la imagen de fondo */
+	background-repeat: no-repeat;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+
+	height: 900px;
+	/*height: 960px;
+	width: 1450px;*/
+
+	padding: 10px;
+}
+
+
+#menu-inicio{
+	margin-top: 64px;
+	background-color: transparent;
+	
+}
+
+h1{
+	color: #855600;
+	font-size: 20px;
+	text-align: left;
+	
+}
+#quienes-somosback{
+	background-color: #bebebe;
+	background-image: url(/recursos/doctor.jpg);
+	/* Posicionamiento de la imagen */
+	background-repeat: no-repeat;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 960px;
+	width: auto;
+	margin-top: 16px;
+
+}
+#quienes-somos{
+	background-color: #2b2c2b;
+	height: 127px;
+	width: 746px;
+}
+
+#info-quienes-somos {
+	/* Transparencia */ 
+	opacity: 0.7;
+	width: 400px;
+	height: 400px; 
+	background-color: black;
+	float: right;
+	margin-top: 128px;
+	margin-right: 16px;
+	/*position: relative;
+	
+	margin-right: -600px;
+	margin-top: 170px;*/
+	padding: 20px;
+}
+#info-quienes-somos h1{
+	/* Esto centra el texto */
+	text-align: center;
+	/* Esto agrega espacio entre letras */
+	letter-spacing: 3px;
+	color: white;
+	/* Esto pone el texto en mayuscula */
+	text-transform: uppercase;
+}
+#info-quienes-somos p{
+	color: white;
+	/* Esto justifica el texto */
+	text-align: justify;
+	margin: 32px;
+}
+
+#antes-back{
+	background-color: #bebebe;
+	height: 960px;
+	width: 1450x;
+
+}
+#antesydespues{
+	background-color: #2b2c2b;
+	height: 127px;
+	width: 746px;
+
+}
+
+#info-antes {
+	width: 564px;
+	height: 564px; 
+	background-color: black;
+	position: relative;
+	float: right;
+	margin-right: -600px;
+	margin-top: 170px;
+	padding: 20px;
+}
+
+
+
+#lab-back{
+	background-color: #bebebe;
+	height: 960px;
+	width: 1450x;
+
+}
+#laboratorio{
+	background-color: #2b2c2b;
+	height: 127px;
+	width: 746px;
+
+}
+
+#info-lab {
+	width: 564px;
+	height: 564px; 
+	background-color: black;
+	position: relative;
+	float: right;
+	margin-right: -600px;
+	margin-top: 170px;
+	padding: 20px;
+}
+
+#Ordentrabajo{
+	background-color: #e87be6;
+	height: 960px;
+	width: 1450px;
+	
+}
+

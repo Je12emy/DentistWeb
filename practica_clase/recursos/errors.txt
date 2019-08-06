@@ -1,0 +1,8 @@
+[2019-7-29 20:38:49] layer "silla.jpg": Duplicate path: silla.jpg
+[2019-7-29 20:40:02] layer "menu.jpg": Duplicate path: menu.jpg
+[2019-7-29 20:43:10] layer "barra.jpg": Duplicate path: barra.jpg
+[2019-7-29 20:42:12] layer "doctor.jpg": Duplicate path: doctor.jpg
+[2019-7-29 20:44:19] layer "barra.jpg": Duplicate path: barra.jpg
+[2019-7-29 20:44:27] layer "sonrisas.jpg": Duplicate path: sonrisas.jpg
+[2019-7-29 20:45:13] layer "ayd.jpg": Duplicate path: ayd.jpg
+[2019-7-29 20:38:49] layer "fondo.jpg": Duplicate path: fondo.jpg
