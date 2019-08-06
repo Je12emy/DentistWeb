@@ -47,8 +47,7 @@ body{
 h1{
 	color: #855600;
 	font-size: 20px;
-	text-align: left;
-	
+	text-align: left;	
 }
 #quienes-somosback{
 	background-color: #bebebe;
@@ -101,45 +100,74 @@ h1{
 	margin: 32px;
 }
 
+/* Antes y Despues */
 #antes-back{
-	background-color: #bebebe;
-	height: 960px;
-	width: 1450x;
+	margin-top: 16px;
+	margin-bottom: 0;
+	height: 500px;
+	width: 100%;
+	background-image: url(/recursos/sonrisas.jpg);
 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
 }
 #antesydespues{
 	background-color: #2b2c2b;
 	height: 127px;
 	width: 746px;
-
 }
 
 #info-antes {
-	width: 564px;
-	height: 564px; 
-	background-color: black;
-	position: relative;
-	float: right;
-	margin-right: -600px;
-	margin-top: 170px;
-	padding: 20px;
+	margin-top: 0;
+	width: 100%;
+	height: 450px; 
+	background-color: #2b2c2b;
+}
+/* Fuente: https://stackoverflow.com/questions/19302122/how-to-put-a-text-beside-the-image-html */
+#info-antesCuadro{
+	background-color: #2b2c2b;
+	margin-top: 0;
+	text-align: center;
 }
 
+#info-antesCuadro img{
+	margin-top: 64px;
+	display:inline-block;
+	vertical-align:middle;
+	width:20%;
+	height:20%;
+}
+#info-antesTexto{
+	margin-left: 64px;
+	display: inline-block;
+}
+#info-antesTexto h1{
+	text-align: center;
+	color:white;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+#info-antesTexto p{
+	color: white;
+	text-align: justify;
+}
 
-
+/* */
 #lab-back{
-	background-color: #bebebe;
+	margin-top: 32px;
+	background-color: white;
 	height: 960px;
 	width: 1450x;
-
+	text-align: center;
 }
 #laboratorio{
 	background-color: #2b2c2b;
 	height: 127px;
 	width: 746px;
-
 }
-
 #info-lab {
 	width: 564px;
 	height: 564px; 
@@ -151,10 +179,8 @@ h1{
 	padding: 20px;
 }
 
-#Ordentrabajo{
-	background-color: #e87be6;
-	height: 960px;
-	width: 1450px;
-	
+#Ordentrabajo img{
+	margin-top: 24px;
+	text-align: center;
 }
 
